@@ -23,7 +23,7 @@
 <div class="form-group">
   <label class="col-md-4 control-label" for="textinput"></label>
   <div class="col-md-4">
-  <input id="username" name="textinput" placeholder="Usuario" class="form-control input-md text-center" type="text">
+  <input id="username" name="username" placeholder="Usuario" class="form-control input-md text-center" type="text">
   </div>
 </div>
 
@@ -31,7 +31,7 @@
 <div class="form-group">
   <label class="col-md-4 control-label" for="passwordinput"></label>
   <div class="col-md-4">
-    <input id="password" name="passwordinput" placeholder="Contraseña" class="form-control input-md text-center" type="password">
+    <input id="password" name="password" placeholder="Contraseña" class="form-control input-md text-center" type="password">
   </div>
 </div>
 
@@ -39,7 +39,7 @@
 <div class="form-group center-block">
   <label class="col-md-4 control-label" for="singlebutton"></label>
   <div class="col-md-4 cent">
-    <button id="ingresar" name="singlebutton" class="btn btn-success active center-block">Ingresar</button>
+    <button id="ingresar" name="ingresar" class="btn btn-success active center-block">Ingresar</button>
   </div>
 </div>
 
